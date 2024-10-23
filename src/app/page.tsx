@@ -5,8 +5,8 @@ export default function Home() {
     <div className="min-h-screen bg-gray-100">
       <header className="bg-blue-600 text-white p-4">
         <div className="container mx-auto">
-          <h1 className="text-3xl font-bold">John Doe</h1>
-          <p className="text-xl">Computer Science Researcher</p>
+          <h1 className="text-3xl font-bold">Subhra Kabiraj</h1>
+          <p className="text-xl">Computer Science Student</p>
         </div>
       </header>
 
