@@ -68,8 +68,7 @@ export default function Portfolio() {
         <section id="#" className="max-w-3xl mx-auto">
           <h2 className="text-4xl font-bold mb-8 text-indigo-600">Home</h2>
           <p className="text-xl leading-relaxed">
-            I am a passionate computer science researcher with a focus on artificial intelligence and machine learning.
-            My goal is to develop innovative solutions that can make a positive impact on society.
+          Welcome to My Professional Portfolio I’m currently a B.Tech student specializing in Computer Science at IEM, where I’m driven by a passion for coding, innovation, and problem-solving. This website serves as a hub to showcase my academic achievements, projects, research interests, and professional journey. Whether you’re here to explore my experience, check out my latest projects, or learn more about my skills and interests, I’m excited to share my work with you. Feel free to browse around, and don’t hesitate to reach out for collaboration, networking, or any inquiries!
           </p>
         </section>
 
@@ -77,7 +76,7 @@ export default function Portfolio() {
         <section id="about" className="max-w-3xl mx-auto">
           <h2 className="text-4xl font-bold mb-8 text-indigo-600">About Me</h2>
           <p className="text-xl leading-relaxed">
-            I am a passionate computer science researcher with a focus on artificial intelligence and machine learning.
+          I'm Subhra Kabiraj and I’m currently pursuing my B.Tech in Computer Science at IEM Newtown(UEM Kolkata),where I’ve developed a strong foundation in coding and problem-solving. With a passion for exploring new technologies, I’m constantly seeking opportunities to learn and enhance my skills. From hands-on coding projects to gaining exposure to different tools and platforms, I’m enthusiastic about applying my knowledge to real-world challenges. I’m particularly interested in software development, algorithms, and emerging tech trends. Let’s connect and collaborate on innovative ideas!
             My goal is to develop innovative solutions that can make a positive impact on society.
           </p>
         </section>
@@ -86,16 +85,16 @@ export default function Portfolio() {
           <h2 className="text-3xl font-bold mb-8 text-indigo-600">Educational Background</h2>
           <ul className="space-y-4">
             <li className="bg-gray-50 p-6 rounded-lg shadow-sm">
-              <h3 className="text-xl font-semibold">Ph.D. in Computer Science</h3>
-              <p className="text-gray-600">Stanford University, 2020</p>
+              <h3 className="text-xl font-semibold">B.Tech in Computer Science</h3>
+              <p className="text-gray-600">IEM NEWTOWN (UNIVERSITY OF ENGINEERING AND MANAGEMENT KOLKATA) 2024-2028</p>
             </li>
             <li className="bg-gray-50 p-6 rounded-lg shadow-sm">
-              <h3 className="text-xl font-semibold">M.S. in Artificial Intelligence</h3>
-              <p className="text-gray-600">MIT, 2016</p>
+              <h3 className="text-xl font-semibold">H.S.</h3>
+              <p className="text-gray-600">AGPN CONVENT AND ER SCHOOL, PURULIA, 2023</p>
             </li>
             <li className="bg-gray-50 p-6 rounded-lg shadow-sm">
-              <h3 className="text-xl font-semibold">B.S. in Computer Engineering</h3>
-              <p className="text-gray-600">University of California, Berkeley, 2014</p>
+              <h3 className="text-xl font-semibold">Secondary Schooling (10th)</h3>
+              <p className="text-gray-600 uppercase">St. Xavier's School, Purulia, 2021 </p>
             </li>
           </ul>
         </section>
@@ -104,16 +103,7 @@ export default function Portfolio() {
           <h2 className="text-3xl font-bold mb-8 text-indigo-600">Experience</h2>
           <ul className="space-y-4">
             <li className="bg-gray-50 p-6 rounded-lg shadow-sm">
-              <h3 className="text-xl font-semibold">Senior AI Researcher</h3>
-              <p className="text-gray-600">Google AI, 2020-Present</p>
-            </li>
-            <li className="bg-gray-50 p-6 rounded-lg shadow-sm">
-              <h3 className="text-xl font-semibold">Research Assistant</h3>
-              <p className="text-gray-600">Stanford AI Lab, 2016-2020</p>
-            </li>
-            <li className="bg-gray-50 p-6 rounded-lg shadow-sm">
-              <h3 className="text-xl font-semibold">Machine Learning Intern</h3>
-              <p className="text-gray-600">Facebook, Summer 2015</p>
+              <h3 className="text-xl font-semibold">Currently a student</h3>
             </li>
           </ul>
         </section>
@@ -122,12 +112,7 @@ export default function Portfolio() {
           <h2 className="text-3xl font-bold mb-8 text-indigo-600">Paper/Patent Publications</h2>
           <ul className="space-y-4">
             <li className="bg-gray-50 p-6 rounded-lg shadow-sm">
-              <h3 className="text-xl font-semibold">Advanced Neural Networks for Image Recognition</h3>
-              <p className="text-gray-600">Doe, J., et al. Nature, 2021</p>
-            </li>
-            <li className="bg-gray-50 p-6 rounded-lg shadow-sm">
-              <h3 className="text-xl font-semibold">Method for Efficient Natural Language Processing</h3>
-              <p className="text-gray-600">US Patent 12345678, 2019</p>
+              <h3 className="text-xl font-semibold">Reseach paper on Space Exploration</h3>
             </li>
           </ul>
         </section>
@@ -136,16 +121,7 @@ export default function Portfolio() {
           <h2 className="text-3xl font-bold mb-8 text-indigo-600">Awards and Achievements</h2>
           <ul className="space-y-4">
             <li className="bg-gray-50 p-6 rounded-lg shadow-sm">
-              <h3 className="text-xl font-semibold">Best Paper Award</h3>
-              <p className="text-gray-600">International Conference on Machine Learning (ICML), 2022</p>
-            </li>
-            <li className="bg-gray-50 p-6 rounded-lg shadow-sm">
-              <h3 className="text-xl font-semibold">Google AI Residency Fellowship</h3>
-              <p className="text-gray-600">2020</p>
-            </li>
-            <li className="bg-gray-50 p-6 rounded-lg shadow-sm">
-              <h3 className="text-xl font-semibold">Stanford Graduate Fellowship</h3>
-              <p className="text-gray-600">2016-2020</p>
+              <h3 className="text-xl font-semibold">To be updated soon </h3>
             </li>
           </ul>
         </section>
@@ -154,16 +130,16 @@ export default function Portfolio() {
           <h2 className="text-3xl font-bold mb-8 text-indigo-600">Projects</h2>
           <ul className="space-y-4">
             <li className="bg-gray-50 p-6 rounded-lg shadow-sm">
-              <h3 className="text-xl font-semibold">DeepVision</h3>
-              <p className="text-gray-600">A novel deep learning framework for computer vision tasks</p>
+              <h3 className="text-xl font-semibold">FLYER FUSION</h3>
+              <p className="text-gray-600">A flyer making contest oraginsed by Uem Kolkata</p>
             </li>
             <li className="bg-gray-50 p-6 rounded-lg shadow-sm">
-              <h3 className="text-xl font-semibold">AIAssist</h3>
-              <p className="text-gray-600">An AI-powered virtual assistant for elderly care</p>
+              <h3 className="text-xl font-semibold">POSTER DESIGNING</h3>
+              <p className="text-gray-600">An online poster designing contest oragnised by dept. of BSH,Uem Kolkata</p>
             </li>
             <li className="bg-gray-50 p-6 rounded-lg shadow-sm">
-              <h3 className="text-xl font-semibold">EcoPredict</h3>
-              <p className="text-gray-600">Machine learning model for predicting ecological changes</p>
+              <h3 className="text-xl font-semibold">INNOVATIVE PROJECT</h3>
+              <p className="text-gray-600">Creating a robotic hand using arduino, flex sensors and other devices for Design thinking project at Uem Kolkata</p>
             </li>
           </ul>
         </section>
@@ -172,13 +148,10 @@ export default function Portfolio() {
           <h2 className="text-3xl font-bold mb-8 text-indigo-600">Membership</h2>
           <ul className="space-y-4">
             <li className="bg-gray-50 p-6 rounded-lg shadow-sm">
-              <h3 className="text-xl font-semibold">Association for Computing Machinery (ACM)</h3>
+              <h3 className="text-xl font-semibold">Coursera (short term course on basics of python)</h3>
             </li>
             <li className="bg-gray-50 p-6 rounded-lg shadow-sm">
-              <h3 className="text-xl font-semibold">Institute of Electrical and Electronics Engineers (IEEE)</h3>
-            </li>
-            <li className="bg-gray-50 p-6 rounded-lg shadow-sm">
-              <h3 className="text-xl font-semibold">Association for the Advancement of Artificial Intelligence (AAAI)</h3>
+              <h3 className="text-xl font-semibold">Udemy (short term course on basics of AI/ML)</h3>
             </li>
           </ul>
         </section>
@@ -186,10 +159,8 @@ export default function Portfolio() {
         <section id="research" className="max-w-3xl mx-auto">
           <h2 className="text-3xl font-bold mb-8 text-indigo-600">Research Thrust Area</h2>
           <ul className="grid grid-cols-1 md:grid-cols-2 gap-4">
-            <li className="bg-gray-50 p-6 rounded-lg shadow-sm">Deep Learning and Neural Networks</li>
-            <li className="bg-gray-50 p-6 rounded-lg shadow-sm">Computer Vision and Image Processing</li>
-            <li className="bg-gray-50 p-6 rounded-lg shadow-sm">Natural Language Processing</li>
-            <li className="bg-gray-50 p-6 rounded-lg shadow-sm">Reinforcement Learning</li>
+            <li className="bg-gray-50 p-6 rounded-lg shadow-sm">Coding (Python)</li>
+            <li className="bg-gray-50 p-6 rounded-lg shadow-sm">Arduino</li>
           </ul>
         </section>
 
@@ -197,16 +168,7 @@ export default function Portfolio() {
           <h2 className="text-3xl font-bold mb-8 text-indigo-600">List of Events (Organized/Attended)</h2>
           <ul className="space-y-4">
             <li className="bg-gray-50 p-6 rounded-lg shadow-sm">
-              <h3 className="text-xl font-semibold">AI Ethics Workshop</h3>
-              <p className="text-gray-600">Organized, Stanford University, 2019</p>
-            </li>
-            <li className="bg-gray-50 p-6 rounded-lg shadow-sm">
-              <h3 className="text-xl font-semibold">Conference on Neural Information Processing Systems (NeurIPS)</h3>
-              <p className="text-gray-600">Attended, 2021</p>
-            </li>
-            <li className="bg-gray-50 p-6 rounded-lg shadow-sm">
-              <h3 className="text-xl font-semibold">International Conference on Machine Learning (ICML)</h3>
-              <p className="text-gray-600">Attended, 2022</p>
+              <h3 className="text-xl font-semibold">Attented UEM KLKATA Space Observatory events, 2024</h3>
             </li>
           </ul>
         </section>
@@ -215,12 +177,8 @@ export default function Portfolio() {
           <h2 className="text-3xl font-bold mb-8 text-indigo-600">Poster/Paper Presentation</h2>
           <ul className="space-y-4">
             <li className="bg-gray-50 p-6 rounded-lg shadow-sm">
-              <h3 className="text-xl font-semibold">Advancements in Generative Adversarial Networks</h3>
-              <p className="text-gray-600">CVPR 2021</p>
-            </li>
-            <li className="bg-gray-50 p-6 rounded-lg shadow-sm">
-              <h3 className="text-xl font-semibold">Efficient Transformers for NLP Tasks</h3>
-              <p className="text-gray-600">ACL 2022</p>
+              <h3 className="text-xl font-semibold">Introduction to Micro Optics(Physics)</h3>
+              <p className="text-gray-600">2024</p>
             </li>
           </ul>
         </section>
@@ -229,16 +187,12 @@ export default function Portfolio() {
           <h2 className="text-3xl font-bold mb-8 text-indigo-600">Courses Completed</h2>
           <ul className="space-y-4">
             <li className="bg-gray-50 p-6 rounded-lg shadow-sm">
-              <h3 className="text-xl font-semibold">Deep Learning Specialization</h3>
+              <h3 className="text-xl font-semibold">Short term course on basics of python</h3>
               <p className="text-gray-600">Coursera</p>
             </li>
             <li className="bg-gray-50 p-6 rounded-lg shadow-sm">
-              <h3 className="text-xl font-semibold">Machine Learning</h3>
-              <p className="text-gray-600">Stanford Online (NPTEL)</p>
-            </li>
-            <li className="bg-gray-50 p-6 rounded-lg shadow-sm">
-              <h3 className="text-xl font-semibold">Advanced Python for Data Science</h3>
-              <p className="text-gray-600">LinkedIn Learning</p>
+              <h3 className="text-xl font-semibold">NPTEL Soft skill course</h3>
+              <p className="text-gray-600">NPTEL</p>
             </li>
           </ul>
         </section>
@@ -246,9 +200,9 @@ export default function Portfolio() {
         <section id="contact" className="max-w-3xl mx-auto bg-gray-50 p-8 rounded-lg shadow-sm">
           <h2 className="text-3xl font-bold mb-8 text-indigo-600">Contact Address</h2>
           <div className="space-y-4">
-            <p className="flex items-center text-xl"><Mail className="mr-4 text-indigo-600" /> john.doe@example.com</p>
-            <p className="flex items-center text-xl"><Phone className="mr-4 text-indigo-600" /> (123) 456-7890</p>
-            <p className="flex items-center text-xl"><MapPin className="mr-4 text-indigo-600" /> 123 AI Street, Tech City, CA 94000</p>
+            <p className="flex items-center text-xl"><Mail className="mr-4 text-indigo-600" /> subhrakabiraj785@gmail.com</p>
+            <p className="flex items-center text-xl"><Phone className="mr-4 text-indigo-600" /> +91 7797289213</p>
+            <p className="flex items-center text-xl"><MapPin className="mr-4 text-indigo-600" /> SP Sukhobrishti Complex, Shapoorji(700135),Newtown,Kolkata</p>
             <div className="flex space-x-4 mt-6">
               <a href="https://github.com/johndoe" className="text-gray-600 hover:text-indigo-600 transition duration-150 ease-in-out">
                 <Github size={32} />
